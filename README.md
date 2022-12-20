@@ -1,4 +1,4 @@
-# Programa-En-Python-Para-Manejar-Stable-Diffusion-Corriendo-En-GPU-AMD.-Inclluidas-Las-Integradas
+# Programa-En-Python-Para-Manejar-Stable-Diffusion-Corriendo-En-GPU-AMD.-Incluidas-Las-Integradas
 
 Programa en Python para manejar y crear imágenes con Stable Diffusion corriendo En GPU's AMD.
 

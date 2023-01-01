@@ -6,4 +6,4 @@ Para que este programa funcione, primero teneis que instalar Stable Diffusion pa
 
 https://www.travelneil.com/stable-diffusion-windows-amd.html
 
-Recordad instalar todas las librerias necesarias indicadas en el fichero requirements.txt
+Recordad instalar todas las librerias necesarias indicadas en el fichero requirements.txt - pip install -r requirements.txt

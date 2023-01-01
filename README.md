@@ -5,3 +5,5 @@ Programa en Python para manejar y crear imágenes con Stable Diffusion corriendo
 Para que este programa funcione, primero teneis que instalar Stable Diffusion para AMD GPU'S En Esta web y seguir los pasos...
 
 https://www.travelneil.com/stable-diffusion-windows-amd.html
+
+Recordar instalar todas las librerias necesarias indicadas en el fichero requirements.txt
